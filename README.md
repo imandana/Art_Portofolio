@@ -29,3 +29,6 @@ Just Collection Of My Art
 ![alt text](https://raw.githubusercontent.com/imandana/Art_Portofolio/main/jd2.jpg)
 ![alt text](https://raw.githubusercontent.com/imandana/Art_Portofolio/main/nm%2Cn.jpg)
 ![alt text](https://raw.githubusercontent.com/imandana/Art_Portofolio/main/siro.gif)
+
+Video
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=dBJ8j7ZdU8M)

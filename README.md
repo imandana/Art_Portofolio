@@ -31,4 +31,4 @@ Just Collection Of My Art
 ![alt text](https://raw.githubusercontent.com/imandana/Art_Portofolio/main/siro.gif)
 
 Video
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=dBJ8j7ZdU8M)
+[![Watch the video](https://raw.githubusercontent.com/imandana/Art_Portofolio/main/5.jpg)](https://www.youtube.com/watch?v=dBJ8j7ZdU8M)
